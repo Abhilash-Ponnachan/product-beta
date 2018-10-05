@@ -1,2 +1,5 @@
 This is the source file for -
 >> component 3
+
+++ Modified module 3 -
+>> added import reference from alpha-libs/module-1/component-1
